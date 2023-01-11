@@ -33,3 +33,9 @@
 * sklearn
 * catboost
 * lightgbm
+* random forest
+* logistic regression
+* StndardScaler
+* OneHotEncoder
+* GridSearchCV
+* Pipeline
